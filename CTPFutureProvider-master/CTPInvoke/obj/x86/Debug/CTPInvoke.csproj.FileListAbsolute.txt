@@ -1,0 +1,8 @@
+D:\作业\给个代码\source\bat\CTPFutureProvider-master\InstallPath\bin\CTPInvoke.dll
+D:\作业\给个代码\source\bat\CTPFutureProvider-master\InstallPath\bin\CTPInvoke.pdb
+D:\作业\给个代码\source\bat\CTPFutureProvider-master\CTPInvoke\obj\x86\Debug\CTPInvoke.dll
+D:\作业\给个代码\source\bat\CTPFutureProvider-master\CTPInvoke\obj\x86\Debug\CTPInvoke.pdb
+F:\CTP\CTPFutureProvider-master\InstallPath\bin\CTPInvoke.dll
+F:\CTP\CTPFutureProvider-master\InstallPath\bin\CTPInvoke.pdb
+F:\CTP\CTPFutureProvider-master\CTPInvoke\obj\x86\Debug\CTPInvoke.dll
+F:\CTP\CTPFutureProvider-master\CTPInvoke\obj\x86\Debug\CTPInvoke.pdb
